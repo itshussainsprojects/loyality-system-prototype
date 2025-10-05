@@ -36,7 +36,7 @@ export default function HomePage() {
               </Button>
             </Link>
             <Link href="/customer">
-              <Button size="sm">Customer</Button>
+              <Button size="sm">Customer Portal</Button>
             </Link>
           </div>
         </div>
